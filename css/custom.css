@@ -1,0 +1,30 @@
+.menu-footer-inner{
+	padding-bottom: 20px;
+	width: 100;
+	margin: 0 auto;
+	text-align: center;
+}
+
+.menu-footer-inner ul{
+	margin: 0;
+	padding: 0 0 10px 0;
+	list-style: none;
+}
+
+.menu-footer-inner ul li{
+	line-height: 1.6;
+	display: inline;
+	padding: 0 10px;
+	border-right: solid 2px #37bc9b ;
+}
+
+.menu-footer-inner ul li:last-child {
+	line-height: 1.6;	
+	padding: 0 10px;
+	border-right: none;
+}
+
+.menu-footer-inner ul li a{
+	color: #eaf4fd;
+	white-space: nowrap;
+}
